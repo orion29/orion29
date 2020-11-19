@@ -2,9 +2,9 @@
 
 
 
-<b> I am a Machine Learning Enthusiast with a knack for Competitive Programming </b> 
+<b> I am a Deep Learning Enthusiast with a knack for Competitive Programming </b> 
 - 🔭 I’m currently working on Semantic Segmentation of Satellite Images.
-- 🌱 I’m currently learning Techniques and Algorithms related to Computer Vision.
+- 🌱 I’m currently learning Techniques and Algorithms related to Computer Vision and Natural Language Processing.
 - 👯 I’m looking to collaborate on research based projects.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kunal-jethuri-900a85181/">
     <img align="justify" alt="Kunal Jethuri | Linkedin" width="24px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2662666-2213265.png" />
