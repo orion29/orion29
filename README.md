@@ -3,7 +3,7 @@
 
 
 <b> I am a Deep Learning Enthusiast with a knack for Competitive Programming </b> 
-- 🔭 I’m currently working as a AI Developer at Digitate's Ignio (TCS).
+- 🔭 I’m currently working as a AI Developer at Digitate.
 - 🌱 I’m currently learning Techniques and Algorithms related to Machine Learning, Computer Vision and Natural Language Processing.
 - 👯 I’m looking to collaborate on research based projects.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kunal-jethuri-900a85181/">
